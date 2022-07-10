@@ -42,5 +42,3 @@ The scripts directory contains the scripts used to query, prepare and analyse th
     3_analysis: different independent scripts to analyse the data.
 
 Downloaded data and outputs are not available.
-
-Translated with www.DeepL.com/Translator (free version)
