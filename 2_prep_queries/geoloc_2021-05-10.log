@@ -1,0 +1,453 @@
+2021-05-10 14:27:32,755;INFO;Beginning parsing list of 132678 user ids
+2021-05-10 14:27:32,766;INFO;0 user ids parsed so far
+2021-05-10 14:27:32,983;WARNING;Rate limit reached. Sleeping for: 520
+2021-05-10 14:37:30,149;INFO;250 user ids parsed so far
+2021-05-10 14:38:41,066;INFO;500 user ids parsed so far
+2021-05-10 14:39:26,842;ERROR;user_id:932144786, [{'code': 63, 'message': 'User has been suspended.'}]
+2021-05-10 14:39:52,645;INFO;750 user ids parsed so far
+2021-05-10 14:40:35,517;WARNING;Rate limit reached. Sleeping for: 643
+2021-05-10 14:51:52,051;INFO;1000 user ids parsed so far
+2021-05-10 14:53:03,413;INFO;1250 user ids parsed so far
+2021-05-10 14:53:24,773;ERROR;user_id:841294157662568449, [{'code': 63, 'message': 'User has been suspended.'}]
+2021-05-10 14:54:14,766;INFO;1500 user ids parsed so far
+2021-05-10 14:55:27,153;INFO;1750 user ids parsed so far
+2021-05-10 14:55:41,475;WARNING;Rate limit reached. Sleeping for: 642
+2021-05-10 15:07:31,325;INFO;2000 user ids parsed so far
+2021-05-10 15:08:45,407;INFO;2250 user ids parsed so far
+2021-05-10 15:09:59,468;INFO;2500 user ids parsed so far
+2021-05-10 15:11:03,294;WARNING;Rate limit reached. Sleeping for: 625
+2021-05-10 15:21:48,160;INFO;2750 user ids parsed so far
+2021-05-10 15:21:53,318;ERROR;user_id:4774751417, [{'code': 63, 'message': 'User has been suspended.'}]
+2021-05-10 15:23:00,063;INFO;3000 user ids parsed so far
+2021-05-10 15:24:13,281;INFO;3250 user ids parsed so far
+2021-05-10 15:25:25,396;INFO;3500 user ids parsed so far
+2021-05-10 15:25:33,123;ERROR;user_id:1241109319527120897, [{'code': 50, 'message': 'User not found.'}]
+2021-05-10 15:25:54,324;WARNING;Rate limit reached. Sleeping for: 639
+2021-05-10 15:37:21,784;INFO;3750 user ids parsed so far
+2021-05-10 15:38:34,492;INFO;4000 user ids parsed so far
+2021-05-10 15:39:46,628;INFO;4250 user ids parsed so far
+2021-05-10 15:40:39,025;ERROR;user_id:944626490267852802, [{'code': 63, 'message': 'User has been suspended.'}]
+2021-05-10 15:40:58,955;INFO;4500 user ids parsed so far
+2021-05-10 15:40:59,182;WARNING;Rate limit reached. Sleeping for: 639
+2021-05-10 15:52:15,574;ERROR;user_id:1229033344568119297, [{'code': 63, 'message': 'User has been suspended.'}]
+2021-05-10 15:52:56,029;INFO;4750 user ids parsed so far
+2021-05-10 15:54:08,331;INFO;5000 user ids parsed so far
+2021-05-10 15:55:21,467;INFO;5250 user ids parsed so far
+2021-05-10 15:56:05,329;WARNING;Rate limit reached. Sleeping for: 638
+2021-05-10 16:07:17,020;INFO;5500 user ids parsed so far
+2021-05-10 16:08:28,977;INFO;5750 user ids parsed so far
+2021-05-10 16:09:41,114;INFO;6000 user ids parsed so far
+2021-05-10 16:10:52,912;INFO;6250 user ids parsed so far
+2021-05-10 16:10:53,428;ERROR;user_id:955100731274559488, [{'code': 63, 'message': 'User has been suspended.'}]
+2021-05-10 16:11:07,409;WARNING;Rate limit reached. Sleeping for: 641
+2021-05-10 16:22:51,241;INFO;6500 user ids parsed so far
+2021-05-10 16:24:03,522;INFO;6750 user ids parsed so far
+2021-05-10 16:25:15,534;INFO;7000 user ids parsed so far
+2021-05-10 16:26:13,647;WARNING;Rate limit reached. Sleeping for: 640
+2021-05-10 16:37:13,093;INFO;7250 user ids parsed so far
+2021-05-10 16:37:39,546;ERROR;user_id:3308884367, [{'code': 50, 'message': 'User not found.'}]
+2021-05-10 16:38:24,918;INFO;7500 user ids parsed so far
+2021-05-10 16:39:03,048;ERROR;user_id:1215733182726885376, [{'code': 63, 'message': 'User has been suspended.'}]
+2021-05-10 16:39:07,243;ERROR;user_id:208052699, [{'code': 63, 'message': 'User has been suspended.'}]
+2021-05-10 16:39:36,766;INFO;7750 user ids parsed so far
+2021-05-10 16:39:48,824;ERROR;user_id:1242817321657348096, [{'code': 63, 'message': 'User has been suspended.'}]
+2021-05-10 16:40:48,820;INFO;8000 user ids parsed so far
+2021-05-10 16:41:17,694;WARNING;Rate limit reached. Sleeping for: 641
+2021-05-10 16:52:46,744;INFO;8250 user ids parsed so far
+2021-05-10 16:53:59,151;INFO;8500 user ids parsed so far
+2021-05-10 16:54:04,379;ERROR;user_id:1078765677476003841, [{'code': 50, 'message': 'User not found.'}]
+2021-05-10 16:54:25,549;ERROR;user_id:842020396916391936, [{'code': 63, 'message': 'User has been suspended.'}]
+2021-05-10 16:55:11,930;INFO;8750 user ids parsed so far
+2021-05-10 16:55:39,705;ERROR;user_id:1543351291, [{'code': 50, 'message': 'User not found.'}]
+2021-05-10 16:56:23,924;INFO;9000 user ids parsed so far
+2021-05-10 16:56:24,159;WARNING;Rate limit reached. Sleeping for: 639
+2021-05-10 17:08:20,738;INFO;9250 user ids parsed so far
+2021-05-10 17:09:33,302;INFO;9500 user ids parsed so far
+2021-05-10 17:10:14,425;ERROR;user_id:109109238, [{'code': 50, 'message': 'User not found.'}]
+2021-05-10 17:10:40,445;ERROR;user_id:1120811364388306945, [{'code': 50, 'message': 'User not found.'}]
+2021-05-10 17:10:46,291;INFO;9750 user ids parsed so far
+2021-05-10 17:11:30,500;WARNING;Rate limit reached. Sleeping for: 638
+2021-05-10 17:22:42,992;INFO;10000 user ids parsed so far
+2021-05-10 17:23:55,775;INFO;10250 user ids parsed so far
+2021-05-10 17:25:10,520;INFO;10500 user ids parsed so far
+2021-05-10 17:25:34,179;ERROR;user_id:548604944, [{'code': 50, 'message': 'User not found.'}]
+2021-05-10 17:26:24,465;INFO;10750 user ids parsed so far
+2021-05-10 17:26:39,865;WARNING;Rate limit reached. Sleeping for: 634
+2021-05-10 17:38:16,540;INFO;11000 user ids parsed so far
+2021-05-10 17:39:28,809;INFO;11250 user ids parsed so far
+2021-05-10 17:39:54,410;ERROR;user_id:2482613515, [{'code': 50, 'message': 'User not found.'}]
+2021-05-10 17:40:40,589;INFO;11500 user ids parsed so far
+2021-05-10 17:41:39,585;WARNING;Rate limit reached. Sleeping for: 640
+2021-05-10 17:52:38,431;ERROR;user_id:1182409134672678913, [{'code': 50, 'message': 'User not found.'}]
+2021-05-10 17:52:38,984;INFO;11750 user ids parsed so far
+2021-05-10 17:53:50,885;INFO;12000 user ids parsed so far
+2021-05-10 17:55:03,421;INFO;12250 user ids parsed so far
+2021-05-10 17:56:15,931;INFO;12500 user ids parsed so far
+2021-05-10 17:56:19,117;ERROR;user_id:1014892132828635139, [{'code': 63, 'message': 'User has been suspended.'}]
+2021-05-10 17:56:44,780;WARNING;Rate limit reached. Sleeping for: 640
+2021-05-10 18:08:13,283;INFO;12750 user ids parsed so far
+2021-05-10 18:09:25,178;INFO;13000 user ids parsed so far
+2021-05-10 18:10:30,878;ERROR;user_id:306870665, [{'code': 50, 'message': 'User not found.'}]
+2021-05-10 18:10:38,450;INFO;13250 user ids parsed so far
+2021-05-10 18:11:50,755;INFO;13500 user ids parsed so far
+2021-05-10 18:11:50,972;WARNING;Rate limit reached. Sleeping for: 639
+2021-05-10 18:23:47,699;INFO;13750 user ids parsed so far
+2021-05-10 18:24:40,747;ERROR;user_id:1366078478429388800, [{'code': 50, 'message': 'User not found.'}]
+2021-05-10 18:25:00,146;INFO;14000 user ids parsed so far
+2021-05-10 18:25:13,677;ERROR;user_id:2935697536, [{'code': 50, 'message': 'User not found.'}]
+2021-05-10 18:25:23,551;ERROR;user_id:1253356576993357824, [{'code': 50, 'message': 'User not found.'}]
+2021-05-10 18:26:02,177;ERROR;user_id:1326167663668768770, [{'code': 50, 'message': 'User not found.'}]
+2021-05-10 18:26:07,298;ERROR;user_id:1203596426569244672, [{'code': 50, 'message': 'User not found.'}]
+2021-05-10 18:26:12,008;INFO;14250 user ids parsed so far
+2021-05-10 18:26:55,585;WARNING;Rate limit reached. Sleeping for: 640
+2021-05-10 18:38:10,202;INFO;14500 user ids parsed so far
+2021-05-10 18:39:27,269;INFO;14750 user ids parsed so far
+2021-05-10 18:40:49,353;INFO;15000 user ids parsed so far
+2021-05-10 18:42:09,295;INFO;15250 user ids parsed so far
+2021-05-10 18:42:25,324;WARNING;Rate limit reached. Sleeping for: 615
+2021-05-10 18:53:59,906;INFO;15500 user ids parsed so far
+2021-05-10 18:55:41,084;INFO;15750 user ids parsed so far
+2021-05-10 18:55:45,497;ERROR;user_id:1320990908377083906, [{'code': 63, 'message': 'User has been suspended.'}]
+2021-05-10 18:57:25,306;INFO;16000 user ids parsed so far
+2021-05-10 18:58:42,317;WARNING;Rate limit reached. Sleeping for: 543
+2021-05-10 19:08:11,091;INFO;16250 user ids parsed so far
+2021-05-10 19:08:21,543;ERROR;user_id:1043584284001488897, [{'code': 50, 'message': 'User not found.'}]
+2021-05-10 19:10:07,082;INFO;16500 user ids parsed so far
+2021-05-10 19:11:35,460;ERROR;user_id:1271859432561840128, [{'code': 63, 'message': 'User has been suspended.'}]
+2021-05-10 19:11:36,898;ERROR;user_id:1452288480, [{'code': 50, 'message': 'User not found.'}]
+2021-05-10 19:11:58,971;INFO;16750 user ids parsed so far
+2021-05-10 19:14:01,309;INFO;17000 user ids parsed so far
+2021-05-10 19:14:45,854;WARNING;Rate limit reached. Sleeping for: 485
+2021-05-10 19:24:07,026;INFO;17250 user ids parsed so far
+2021-05-10 19:26:10,776;INFO;17500 user ids parsed so far
+2021-05-10 19:28:12,972;INFO;17750 user ids parsed so far
+2021-05-10 19:30:16,064;INFO;18000 user ids parsed so far
+2021-05-10 19:30:16,293;WARNING;Rate limit reached. Sleeping for: 460
+2021-05-10 19:39:35,493;ERROR;user_id:1151654144169730048, [{'code': 50, 'message': 'User not found.'}]
+2021-05-10 19:40:07,705;ERROR;user_id:720498997664866304, [{'code': 50, 'message': 'User not found.'}]
+2021-05-10 19:40:07,710;INFO;18250 user ids parsed so far
+2021-05-10 19:41:33,776;ERROR;user_id:1225383865352642560, [{'code': 50, 'message': 'User not found.'}]
+2021-05-10 19:42:07,914;INFO;18500 user ids parsed so far
+2021-05-10 19:44:04,266;INFO;18750 user ids parsed so far
+2021-05-10 19:45:12,073;WARNING;Rate limit reached. Sleeping for: 469
+2021-05-10 19:53:45,908;INFO;19000 user ids parsed so far
+2021-05-10 19:55:24,789;INFO;19250 user ids parsed so far
+2021-05-10 19:56:31,388;ERROR;user_id:996510952580419590, [{'code': 50, 'message': 'User not found.'}]
+2021-05-10 19:56:43,170;ERROR;user_id:1185879218367815681, [{'code': 50, 'message': 'User not found.'}]
+2021-05-10 19:57:02,621;INFO;19500 user ids parsed so far
+2021-05-10 19:57:55,009;ERROR;user_id:774724022525370368, [{'code': 50, 'message': 'User not found.'}]
+2021-05-10 19:58:33,561;INFO;19750 user ids parsed so far
+2021-05-10 19:58:51,988;WARNING;Rate limit reached. Sleeping for: 555
+2021-05-10 20:09:21,212;INFO;20000 user ids parsed so far
+2021-05-10 20:09:51,200;ERROR;user_id:2590559454, [{'code': 63, 'message': 'User has been suspended.'}]
+2021-05-10 20:10:38,816;INFO;20250 user ids parsed so far
+2021-05-10 20:11:54,732;INFO;20500 user ids parsed so far
+2021-05-10 20:12:28,806;ERROR;user_id:1028229604480372736, [{'code': 63, 'message': 'User has been suspended.'}]
+2021-05-10 20:12:56,663;WARNING;Rate limit reached. Sleeping for: 616
+2021-05-10 20:23:41,291;INFO;20750 user ids parsed so far
+2021-05-10 20:24:48,228;ERROR;user_id:768072993666895872, [{'code': 50, 'message': 'User not found.'}]
+2021-05-10 20:25:15,489;INFO;21000 user ids parsed so far
+2021-05-10 20:26:20,063;ERROR;user_id:556607725, [{'code': 50, 'message': 'User not found.'}]
+2021-05-10 20:26:56,461;INFO;21250 user ids parsed so far
+2021-05-10 20:28:22,045;INFO;21500 user ids parsed so far
+2021-05-10 20:28:57,841;WARNING;Rate limit reached. Sleeping for: 560
+2021-05-10 20:39:08,433;INFO;21750 user ids parsed so far
+2021-05-10 20:40:24,413;INFO;22000 user ids parsed so far
+2021-05-10 20:40:41,642;ERROR;user_id:1392605725, [{'code': 50, 'message': 'User not found.'}]
+2021-05-10 20:40:55,870;ERROR;user_id:1356619326414082053, [{'code': 63, 'message': 'User has been suspended.'}]
+2021-05-10 20:41:39,324;INFO;22250 user ids parsed so far
+2021-05-10 20:42:37,347;ERROR;user_id:1116488191417225221, [{'code': 63, 'message': 'User has been suspended.'}]
+2021-05-10 20:42:54,193;INFO;22500 user ids parsed so far
+2021-05-10 20:42:54,433;WARNING;Rate limit reached. Sleeping for: 629
+2021-05-10 20:54:40,818;INFO;22750 user ids parsed so far
+2021-05-10 20:55:54,131;INFO;23000 user ids parsed so far
+2021-05-10 20:57:11,471;INFO;23250 user ids parsed so far
+2021-05-10 20:57:54,553;WARNING;Rate limit reached. Sleeping for: 634
+2021-05-10 21:09:03,433;INFO;23500 user ids parsed so far
+2021-05-10 21:10:22,110;INFO;23750 user ids parsed so far
+2021-05-10 21:11:39,450;INFO;24000 user ids parsed so far
+2021-05-10 21:12:21,355;ERROR;user_id:1258578460546564103, [{'code': 50, 'message': 'User not found.'}]
+2021-05-10 21:12:51,980;INFO;24250 user ids parsed so far
+2021-05-10 21:13:06,652;WARNING;Rate limit reached. Sleeping for: 627
+2021-05-10 21:24:10,596;ERROR;user_id:1336434456178151425, [{'code': 63, 'message': 'User has been suspended.'}]
+2021-05-10 21:24:35,962;INFO;24500 user ids parsed so far
+2021-05-10 21:25:04,646;ERROR;user_id:1851857024, [{'code': 63, 'message': 'User has been suspended.'}]
+2021-05-10 21:25:52,662;INFO;24750 user ids parsed so far
+2021-05-10 21:27:04,870;INFO;25000 user ids parsed so far
+2021-05-10 21:28:02,945;WARNING;Rate limit reached. Sleeping for: 636
+2021-05-10 21:38:58,293;INFO;25250 user ids parsed so far
+2021-05-10 21:40:10,706;INFO;25500 user ids parsed so far
+2021-05-10 21:41:22,651;INFO;25750 user ids parsed so far
+2021-05-10 21:41:40,234;ERROR;user_id:246349845, [{'code': 50, 'message': 'User not found.'}]
+2021-05-10 21:42:34,611;INFO;26000 user ids parsed so far
+2021-05-10 21:43:03,628;WARNING;Rate limit reached. Sleeping for: 641
+2021-05-10 21:54:25,280;ERROR;user_id:831620134607396864, [{'code': 50, 'message': 'User not found.'}]
+2021-05-10 21:54:32,412;INFO;26250 user ids parsed so far
+2021-05-10 21:55:44,007;INFO;26500 user ids parsed so far
+2021-05-10 21:56:55,504;INFO;26750 user ids parsed so far
+2021-05-10 21:57:09,957;ERROR;user_id:4646487927, [{'code': 63, 'message': 'User has been suspended.'}]
+2021-05-10 21:58:06,388;INFO;27000 user ids parsed so far
+2021-05-10 21:58:06,614;WARNING;Rate limit reached. Sleeping for: 643
+2021-05-10 22:09:02,081;ERROR;user_id:1168449161798279168, [{'code': 50, 'message': 'User not found.'}]
+2021-05-10 22:10:06,394;INFO;27250 user ids parsed so far
+2021-05-10 22:11:18,645;INFO;27500 user ids parsed so far
+2021-05-10 22:12:30,086;INFO;27750 user ids parsed so far
+2021-05-10 22:12:32,366;ERROR;user_id:1876619996, [{'code': 63, 'message': 'User has been suspended.'}]
+2021-05-10 22:13:14,500;WARNING;Rate limit reached. Sleeping for: 640
+2021-05-10 22:24:28,128;INFO;28000 user ids parsed so far
+2021-05-10 22:24:31,529;ERROR;user_id:1222607339032846338, [{'code': 50, 'message': 'User not found.'}]
+2021-05-10 22:25:38,947;INFO;28250 user ids parsed so far
+2021-05-10 22:26:49,776;INFO;28500 user ids parsed so far
+2021-05-10 22:28:00,817;INFO;28750 user ids parsed so far
+2021-05-10 22:28:15,172;WARNING;Rate limit reached. Sleeping for: 644
+2021-05-10 22:39:56,668;ERROR;user_id:1148338289100972033, [{'code': 50, 'message': 'User not found.'}]
+2021-05-10 22:40:02,177;INFO;29000 user ids parsed so far
+2021-05-10 22:40:12,910;ERROR;user_id:1319705305761067008, [{'code': 63, 'message': 'User has been suspended.'}]
+2021-05-10 22:41:14,704;INFO;29250 user ids parsed so far
+2021-05-10 22:42:14,918;ERROR;user_id:1197148397259624453, [{'code': 50, 'message': 'User not found.'}]
+2021-05-10 22:42:27,225;INFO;29500 user ids parsed so far
+2021-05-10 22:43:22,817;ERROR;user_id:708679550004293632, [{'code': 63, 'message': 'User has been suspended.'}]
+2021-05-10 22:43:24,757;WARNING;Rate limit reached. Sleeping for: 640
+2021-05-10 22:54:24,025;INFO;29750 user ids parsed so far
+2021-05-10 22:55:41,051;INFO;30000 user ids parsed so far
+2021-05-10 22:56:52,128;INFO;30250 user ids parsed so far
+2021-05-10 22:57:47,566;ERROR;user_id:102168885, [{'code': 50, 'message': 'User not found.'}]
+2021-05-10 22:58:03,052;INFO;30500 user ids parsed so far
+2021-05-10 22:58:31,937;WARNING;Rate limit reached. Sleeping for: 638
+2021-05-10 23:09:58,260;INFO;30750 user ids parsed so far
+2021-05-10 23:11:10,583;INFO;31000 user ids parsed so far
+2021-05-10 23:12:21,886;INFO;31250 user ids parsed so far
+2021-05-10 23:13:17,101;ERROR;user_id:1095543403578904576, [{'code': 50, 'message': 'User not found.'}]
+2021-05-10 23:13:33,331;INFO;31500 user ids parsed so far
+2021-05-10 23:13:33,558;WARNING;Rate limit reached. Sleeping for: 642
+2021-05-10 23:25:31,875;INFO;31750 user ids parsed so far
+2021-05-10 23:26:43,562;INFO;32000 user ids parsed so far
+2021-05-10 23:27:55,653;INFO;32250 user ids parsed so far
+2021-05-10 23:28:39,863;WARNING;Rate limit reached. Sleeping for: 641
+2021-05-10 23:39:54,433;INFO;32500 user ids parsed so far
+2021-05-10 23:41:05,876;INFO;32750 user ids parsed so far
+2021-05-10 23:41:20,811;ERROR;user_id:1320855574653882370, [{'code': 50, 'message': 'User not found.'}]
+2021-05-10 23:42:20,458;INFO;33000 user ids parsed so far
+2021-05-10 23:43:31,806;INFO;33250 user ids parsed so far
+2021-05-10 23:43:46,230;WARNING;Rate limit reached. Sleeping for: 640
+2021-05-10 23:55:28,558;INFO;33500 user ids parsed so far
+2021-05-10 23:56:40,642;INFO;33750 user ids parsed so far
+2021-05-10 23:57:52,571;INFO;34000 user ids parsed so far
+2021-05-10 23:58:49,524;WARNING;Rate limit reached. Sleeping for: 642
+2021-05-11 00:09:52,712;INFO;34250 user ids parsed so far
+2021-05-11 00:11:05,372;INFO;34500 user ids parsed so far
+2021-05-11 00:12:06,898;ERROR;user_id:1229480058538074118, [{'code': 50, 'message': 'User not found.'}]
+2021-05-11 00:12:17,946;INFO;34750 user ids parsed so far
+2021-05-11 00:13:29,972;INFO;35000 user ids parsed so far
+2021-05-11 00:13:58,927;WARNING;Rate limit reached. Sleeping for: 638
+2021-05-11 00:25:24,769;INFO;35250 user ids parsed so far
+2021-05-11 00:26:36,140;INFO;35500 user ids parsed so far
+2021-05-11 00:27:49,027;INFO;35750 user ids parsed so far
+2021-05-11 00:29:00,178;INFO;36000 user ids parsed so far
+2021-05-11 00:29:00,411;WARNING;Rate limit reached. Sleeping for: 642
+2021-05-11 00:40:59,139;INFO;36250 user ids parsed so far
+2021-05-11 00:42:02,751;ERROR;user_id:4920308921, [{'code': 50, 'message': 'User not found.'}]
+2021-05-11 00:42:10,772;INFO;36500 user ids parsed so far
+2021-05-11 00:43:22,490;INFO;36750 user ids parsed so far
+2021-05-11 00:44:05,397;WARNING;Rate limit reached. Sleeping for: 642
+2021-05-11 00:55:21,874;INFO;37000 user ids parsed so far
+2021-05-11 00:56:02,972;ERROR;user_id:1410441373, [{'code': 50, 'message': 'User not found.'}]
+2021-05-11 00:56:34,205;INFO;37250 user ids parsed so far
+2021-05-11 00:57:45,139;INFO;37500 user ids parsed so far
+2021-05-11 00:58:53,306;ERROR;user_id:1233094659674689536, [{'code': 50, 'message': 'User not found.'}]
+2021-05-11 00:58:56,118;INFO;37750 user ids parsed so far
+2021-05-11 00:59:10,780;WARNING;Rate limit reached. Sleeping for: 642
+2021-05-11 01:10:55,023;INFO;38000 user ids parsed so far
+2021-05-11 01:12:07,406;INFO;38250 user ids parsed so far
+2021-05-11 01:13:20,261;INFO;38500 user ids parsed so far
+2021-05-11 01:14:16,816;WARNING;Rate limit reached. Sleeping for: 641
+2021-05-11 01:25:16,993;INFO;38750 user ids parsed so far
+2021-05-11 01:26:29,436;INFO;39000 user ids parsed so far
+2021-05-11 01:27:40,583;INFO;39250 user ids parsed so far
+2021-05-11 01:28:42,286;ERROR;user_id:888426972354932736, [{'code': 50, 'message': 'User not found.'}]
+2021-05-11 01:28:52,265;INFO;39500 user ids parsed so far
+2021-05-11 01:29:21,588;WARNING;Rate limit reached. Sleeping for: 641
+2021-05-11 01:40:51,357;INFO;39750 user ids parsed so far
+2021-05-11 01:42:03,855;INFO;40000 user ids parsed so far
+2021-05-11 01:43:16,247;INFO;40250 user ids parsed so far
+2021-05-11 01:44:28,321;INFO;40500 user ids parsed so far
+2021-05-11 01:44:28,551;WARNING;Rate limit reached. Sleeping for: 639
+2021-05-11 01:55:32,314;ERROR;user_id:1139131770501308419, [{'code': 50, 'message': 'User not found.'}]
+2021-05-11 01:55:42,073;ERROR;user_id:968204663668592641, [{'code': 50, 'message': 'User not found.'}]
+2021-05-11 01:56:24,643;INFO;40750 user ids parsed so far
+2021-05-11 01:57:37,577;INFO;41000 user ids parsed so far
+2021-05-11 01:58:48,071;INFO;41250 user ids parsed so far
+2021-05-11 01:59:27,823;ERROR;user_id:947885943553429505, [{'code': 50, 'message': 'User not found.'}]
+2021-05-11 01:59:31,405;WARNING;Rate limit reached. Sleeping for: 641
+2021-05-11 02:10:45,849;INFO;41500 user ids parsed so far
+2021-05-11 02:11:57,052;INFO;41750 user ids parsed so far
+2021-05-11 02:13:08,342;INFO;42000 user ids parsed so far
+2021-05-11 02:14:19,148;INFO;42250 user ids parsed so far
+2021-05-11 02:14:33,480;WARNING;Rate limit reached. Sleeping for: 644
+2021-05-11 02:25:32,042;ERROR;user_id:79751324, [{'code': 50, 'message': 'User not found.'}]
+2021-05-11 02:26:19,683;INFO;42500 user ids parsed so far
+2021-05-11 02:27:31,297;INFO;42750 user ids parsed so far
+2021-05-11 02:28:43,667;INFO;43000 user ids parsed so far
+2021-05-11 02:29:40,960;WARNING;Rate limit reached. Sleeping for: 642
+2021-05-11 02:40:42,335;INFO;43250 user ids parsed so far
+2021-05-11 02:41:55,892;INFO;43500 user ids parsed so far
+2021-05-11 02:42:25,420;ERROR;user_id:1213888735873355778, [{'code': 50, 'message': 'User not found.'}]
+2021-05-11 02:43:08,529;INFO;43750 user ids parsed so far
+2021-05-11 02:44:20,417;INFO;44000 user ids parsed so far
+2021-05-11 02:44:49,352;WARNING;Rate limit reached. Sleeping for: 639
+2021-05-11 02:56:16,165;INFO;44250 user ids parsed so far
+2021-05-11 02:57:26,851;INFO;44500 user ids parsed so far
+2021-05-11 02:58:10,457;ERROR;user_id:2857137592, [{'code': 50, 'message': 'User not found.'}]
+2021-05-11 02:58:37,301;INFO;44750 user ids parsed so far
+2021-05-11 02:59:48,495;INFO;45000 user ids parsed so far
+2021-05-11 02:59:48,722;WARNING;Rate limit reached. Sleeping for: 645
+2021-05-11 03:11:50,129;INFO;45250 user ids parsed so far
+2021-05-11 03:12:19,490;ERROR;user_id:95940990, [{'code': 50, 'message': 'User not found.'}]
+2021-05-11 03:13:01,613;INFO;45500 user ids parsed so far
+2021-05-11 03:14:12,607;INFO;45750 user ids parsed so far
+2021-05-11 03:14:55,424;WARNING;Rate limit reached. Sleeping for: 643
+2021-05-11 03:26:12,261;INFO;46000 user ids parsed so far
+2021-05-11 03:27:23,700;INFO;46250 user ids parsed so far
+2021-05-11 03:28:34,388;INFO;46500 user ids parsed so far
+2021-05-11 03:29:45,008;INFO;46750 user ids parsed so far
+2021-05-11 03:29:59,586;WARNING;Rate limit reached. Sleeping for: 644
+2021-05-11 03:41:46,406;INFO;47000 user ids parsed so far
+2021-05-11 03:42:58,846;INFO;47250 user ids parsed so far
+2021-05-11 03:43:31,238;ERROR;user_id:561194708, Twitter error response: status code = 503
+2021-05-11 03:44:10,304;INFO;47500 user ids parsed so far
+2021-05-11 03:44:42,429;ERROR;user_id:1114457169053855744, [{'code': 50, 'message': 'User not found.'}]
+2021-05-11 03:45:08,455;WARNING;Rate limit reached. Sleeping for: 640
+2021-05-11 03:56:07,542;INFO;47750 user ids parsed so far
+2021-05-11 03:56:49,288;ERROR;user_id:1029702707504930816, [{'code': 50, 'message': 'User not found.'}]
+2021-05-11 03:57:18,963;INFO;48000 user ids parsed so far
+2021-05-11 03:58:29,997;INFO;48250 user ids parsed so far
+2021-05-11 03:59:15,592;ERROR;user_id:1288178265513955330, [{'code': 63, 'message': 'User has been suspended.'}]
+2021-05-11 03:59:41,117;INFO;48500 user ids parsed so far
+2021-05-11 03:59:55,925;ERROR;user_id:1363612922149277700, [{'code': 50, 'message': 'User not found.'}]
+2021-05-11 04:00:11,197;WARNING;Rate limit reached. Sleeping for: 642
+2021-05-11 04:11:40,499;INFO;48750 user ids parsed so far
+2021-05-11 04:12:53,128;INFO;49000 user ids parsed so far
+2021-05-11 04:13:31,332;ERROR;user_id:1183743072, [{'code': 50, 'message': 'User not found.'}]
+2021-05-11 04:14:04,067;INFO;49250 user ids parsed so far
+2021-05-11 04:14:44,385;ERROR;user_id:111654622, [{'code': 50, 'message': 'User not found.'}]
+2021-05-11 04:15:14,707;INFO;49500 user ids parsed so far
+2021-05-11 04:15:15,209;WARNING;Rate limit reached. Sleeping for: 643
+2021-05-11 04:26:37,932;ERROR;user_id:4405167923, [{'code': 50, 'message': 'User not found.'}]
+2021-05-11 04:27:14,094;INFO;49750 user ids parsed so far
+2021-05-11 04:27:48,441;ERROR;user_id:989786127287668736, [{'code': 50, 'message': 'User not found.'}]
+2021-05-11 04:28:26,084;INFO;50000 user ids parsed so far
+2021-05-11 04:29:37,422;INFO;50250 user ids parsed so far
+2021-05-11 04:30:21,113;WARNING;Rate limit reached. Sleeping for: 642
+2021-05-11 04:41:36,505;INFO;50500 user ids parsed so far
+2021-05-11 04:42:48,485;INFO;50750 user ids parsed so far
+2021-05-11 04:43:14,919;ERROR;user_id:1235880406286774272, [{'code': 50, 'message': 'User not found.'}]
+2021-05-11 04:43:59,572;INFO;51000 user ids parsed so far
+2021-05-11 04:45:11,210;INFO;51250 user ids parsed so far
+2021-05-11 04:45:25,906;WARNING;Rate limit reached. Sleeping for: 643
+2021-05-11 04:57:11,233;INFO;51500 user ids parsed so far
+2021-05-11 04:57:14,824;ERROR;user_id:712329040426876928, [{'code': 50, 'message': 'User not found.'}]
+2021-05-11 04:58:23,201;INFO;51750 user ids parsed so far
+2021-05-11 04:59:34,331;INFO;52000 user ids parsed so far
+2021-05-11 05:00:05,940;ERROR;user_id:1353044083242131457, [{'code': 50, 'message': 'User not found.'}]
+2021-05-11 05:00:31,402;WARNING;Rate limit reached. Sleeping for: 643
+2021-05-11 05:11:29,292;ERROR;user_id:2167038558, [{'code': 50, 'message': 'User not found.'}]
+2021-05-11 05:11:33,339;INFO;52250 user ids parsed so far
+2021-05-11 05:12:44,751;INFO;52500 user ids parsed so far
+2021-05-11 05:13:55,206;INFO;52750 user ids parsed so far
+2021-05-11 05:14:41,428;ERROR;user_id:2725942879, [{'code': 50, 'message': 'User not found.'}]
+2021-05-11 05:15:06,172;INFO;53000 user ids parsed so far
+2021-05-11 05:15:34,752;WARNING;Rate limit reached. Sleeping for: 645
+2021-05-11 05:26:59,242;ERROR;user_id:1342053052119982081, [{'code': 50, 'message': 'User not found.'}]
+2021-05-11 05:27:07,407;INFO;53250 user ids parsed so far
+2021-05-11 05:28:19,000;INFO;53500 user ids parsed so far
+2021-05-11 05:29:04,887;ERROR;user_id:951833591864012802, [{'code': 50, 'message': 'User not found.'}]
+2021-05-11 05:29:32,402;INFO;53750 user ids parsed so far
+2021-05-11 05:30:44,335;INFO;54000 user ids parsed so far
+2021-05-11 05:30:44,835;WARNING;Rate limit reached. Sleeping for: 640
+2021-05-11 05:42:40,854;INFO;54250 user ids parsed so far
+2021-05-11 05:43:51,794;INFO;54500 user ids parsed so far
+2021-05-11 05:45:03,895;INFO;54750 user ids parsed so far
+2021-05-11 05:45:47,165;WARNING;Rate limit reached. Sleeping for: 642
+2021-05-11 05:57:01,565;INFO;55000 user ids parsed so far
+2021-05-11 05:58:12,549;INFO;55250 user ids parsed so far
+2021-05-11 05:59:24,118;INFO;55500 user ids parsed so far
+2021-05-11 06:00:35,763;INFO;55750 user ids parsed so far
+2021-05-11 06:00:50,879;WARNING;Rate limit reached. Sleeping for: 644
+2021-05-11 06:12:36,365;INFO;56000 user ids parsed so far
+2021-05-11 06:13:47,194;INFO;56250 user ids parsed so far
+2021-05-11 06:14:58,888;INFO;56500 user ids parsed so far
+2021-05-11 06:15:56,123;WARNING;Rate limit reached. Sleeping for: 643
+2021-05-11 06:26:57,871;INFO;56750 user ids parsed so far
+2021-05-11 06:28:09,720;INFO;57000 user ids parsed so far
+2021-05-11 06:29:21,447;INFO;57250 user ids parsed so far
+2021-05-11 06:30:33,069;INFO;57500 user ids parsed so far
+2021-05-11 06:30:34,722;ERROR;user_id:1262878499318247433, [{'code': 50, 'message': 'User not found.'}]
+2021-05-11 06:31:02,522;WARNING;Rate limit reached. Sleeping for: 642
+2021-05-11 06:42:32,036;INFO;57750 user ids parsed so far
+2021-05-11 06:43:43,015;INFO;58000 user ids parsed so far
+2021-05-11 06:44:53,870;INFO;58250 user ids parsed so far
+2021-05-11 06:45:36,897;ERROR;user_id:1338904716294676480, [{'code': 63, 'message': 'User has been suspended.'}]
+2021-05-11 06:46:05,231;INFO;58500 user ids parsed so far
+2021-05-11 06:46:05,734;WARNING;Rate limit reached. Sleeping for: 644
+2021-05-11 06:58:05,533;INFO;58750 user ids parsed so far
+2021-05-11 06:58:49,705;ERROR;user_id:1304981734497361920, [{'code': 50, 'message': 'User not found.'}]
+2021-05-11 06:59:16,320;INFO;59000 user ids parsed so far
+2021-05-11 07:00:28,266;INFO;59250 user ids parsed so far
+2021-05-11 07:01:17,694;WARNING;Rate limit reached. Sleeping for: 637
+2021-05-11 07:12:28,108;INFO;59500 user ids parsed so far
+2021-05-11 07:13:29,313;ERROR;user_id:1353132942550323208, [{'code': 50, 'message': 'User not found.'}]
+2021-05-11 07:13:39,383;INFO;59750 user ids parsed so far
+2021-05-11 07:14:50,456;INFO;60000 user ids parsed so far
+2021-05-11 07:16:08,021;INFO;60250 user ids parsed so far
+2021-05-11 07:16:22,665;WARNING;Rate limit reached. Sleeping for: 637
+2021-05-11 07:28:09,884;INFO;60500 user ids parsed so far
+2021-05-11 07:29:06,269;ERROR;user_id:1287081488790573056, [{'code': 50, 'message': 'User not found.'}]
+2021-05-11 07:29:21,543;INFO;60750 user ids parsed so far
+2021-05-11 07:30:32,625;INFO;61000 user ids parsed so far
+2021-05-11 07:30:36,073;ERROR;user_id:1236232344736063489, [{'code': 63, 'message': 'User has been suspended.'}]
+2021-05-11 07:31:14,694;ERROR;user_id:1251366597446508545, [{'code': 50, 'message': 'User not found.'}]
+2021-05-11 07:31:29,470;WARNING;Rate limit reached. Sleeping for: 635
+2021-05-11 07:42:23,162;INFO;61250 user ids parsed so far
+2021-05-11 07:43:33,959;INFO;61500 user ids parsed so far
+2021-05-11 07:44:45,561;INFO;61750 user ids parsed so far
+2021-05-11 07:45:57,162;INFO;62000 user ids parsed so far
+2021-05-11 07:46:26,468;WARNING;Rate limit reached. Sleeping for: 643
+2021-05-11 07:57:56,057;INFO;62250 user ids parsed so far
+2021-05-11 07:59:06,928;INFO;62500 user ids parsed so far
+2021-05-11 08:00:17,888;INFO;62750 user ids parsed so far
+2021-05-11 08:01:30,342;INFO;63000 user ids parsed so far
+2021-05-11 08:01:30,862;WARNING;Rate limit reached. Sleeping for: 644
+2021-05-11 08:13:25,034;ERROR;user_id:701564127769186308, [{'code': 50, 'message': 'User not found.'}]
+2021-05-11 08:13:30,579;INFO;63250 user ids parsed so far
+2021-05-11 08:14:41,589;INFO;63500 user ids parsed so far
+2021-05-11 08:15:52,716;INFO;63750 user ids parsed so far
+2021-05-11 08:16:35,780;WARNING;Rate limit reached. Sleeping for: 645
+2021-05-11 08:27:53,734;INFO;64000 user ids parsed so far
+2021-05-11 08:29:06,261;INFO;64250 user ids parsed so far
+2021-05-11 08:30:17,466;INFO;64500 user ids parsed so far
+2021-05-11 08:31:28,421;INFO;64750 user ids parsed so far
+2021-05-11 08:31:43,234;WARNING;Rate limit reached. Sleeping for: 642
+2021-05-11 08:43:21,289;ERROR;user_id:1145154961, [{'code': 63, 'message': 'User has been suspended.'}]
+2021-05-11 08:43:27,934;INFO;65000 user ids parsed so far
+2021-05-11 08:44:38,679;INFO;65250 user ids parsed so far
+2021-05-11 08:45:50,220;INFO;65500 user ids parsed so far
+2021-05-11 08:46:47,047;WARNING;Rate limit reached. Sleeping for: 643
+2021-05-11 08:57:49,076;INFO;65750 user ids parsed so far
+2021-05-11 08:59:00,932;INFO;66000 user ids parsed so far
+2021-05-11 09:00:12,098;INFO;66250 user ids parsed so far
+2021-05-11 09:00:15,987;ERROR;user_id:1153379455982813184, [{'code': 50, 'message': 'User not found.'}]
+2021-05-11 09:01:36,400;INFO;66500 user ids parsed so far
+2021-05-11 09:02:10,789;WARNING;Rate limit reached. Sleeping for: 625
+2021-05-11 09:13:23,432;INFO;66750 user ids parsed so far
+2021-05-11 09:14:35,497;INFO;67000 user ids parsed so far
+2021-05-11 09:15:46,533;INFO;67250 user ids parsed so far
+2021-05-11 09:16:36,466;ERROR;user_id:1328308729331261441, [{'code': 50, 'message': 'User not found.'}]
+2021-05-11 09:16:59,060;INFO;67500 user ids parsed so far
+2021-05-11 09:16:59,561;WARNING;Rate limit reached. Sleeping for: 641
+2021-05-11 09:28:56,472;INFO;67750 user ids parsed so far
+2021-05-11 09:29:04,086;ERROR;user_id:891686224464949248, [{'code': 50, 'message': 'User not found.'}]
+2021-05-11 09:30:07,366;INFO;68000 user ids parsed so far
+2021-05-11 09:31:06,032;ERROR;user_id:1108759911608004608, [{'code': 50, 'message': 'User not found.'}]
+2021-05-11 09:31:17,207;ERROR;user_id:1287813632768778242, [{'code': 50, 'message': 'User not found.'}]
+2021-05-11 09:31:19,201;INFO;68250 user ids parsed so far
+2021-05-11 09:32:03,088;WARNING;Rate limit reached. Sleeping for: 642
